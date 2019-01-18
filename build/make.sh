@@ -36,5 +36,5 @@ elif [ "$var1" = "CentOS" ]; then
   qmake-qt5 mitoPrinter.pro
   make
 else
-  echo -e "Unknouwn distributiv"
+  echo -e "Unknouwn distr"
 fi
